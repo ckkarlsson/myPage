@@ -1,0 +1,24 @@
+.envelope {
+    height: 200px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#animation{
+    font-size:40px; 
+    margin-top:40px; 
+    margin-left:50px;
+}
+
+i {
+    margin: 5px;
+    color: black;
+}
+
+i:hover {
+    color: pink;
+}
+
+

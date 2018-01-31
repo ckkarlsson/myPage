@@ -1,0 +1,58 @@
+.styleMainAbout {
+    margin: 17px;
+}
+
+#myIMG {
+    border-radius: 50%;
+    height: 350px;
+    width:350px;
+}
+
+#imgHeart {
+    height: 50px;
+    width: 50px;
+
+}
+
+#writeName {
+    font-size: 20px;
+    text-align: right;
+}
+
+h2 {
+    margin: 10px 20px 0 0;
+}
+
+h3 {
+    text-align: left;
+}
+
+.styleBullet {
+    position: relative;
+    left:-14px;
+    text-align: left;
+}
+
+#shortAboutMe {
+    text-align: left;
+}
+
+h4 {
+    text-align: left;
+    margin-bottom: 0;
+}
+
+#aboutMeText {
+    text-align: left;
+}
+
+p {
+    margin-top: 2px;
+    text-align: left;
+}
+
+.centerLeft {
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
